@@ -6,7 +6,7 @@ export default function Home() {
       <div className="header">
         <div className="nav-header">
           <div className="logo-header">
-            <img src="/logo1.png" alt="background" />
+            <img src="/logo1.png" />
           </div>
           <div>
             <button className="button-in">Sign In</button>
@@ -19,27 +19,27 @@ export default function Home() {
           <h1>Restaurants and more, delivered to your door</h1>
         </div>
         <div className="input-header">
-          <img className="logo-maps" src="/location.png" alt="background" />
+          <img className="logo-maps" src="/location.png" />
           <input placeholder="Enter delivery address" />
-          <img className="logo-arrow" src="/right-arrow.png" alt="background" />
+          <img className="logo-arrow" src="/right-arrow.png" />
         </div>
       </div>
 
       <div className="content-fiture">
         <div className="title-fiture">
-          <img src="/content1.svg" alt="background" />
+          <img src="/content1.svg" />
           <h1>Become a Dasher</h1>
           <p>
-            As a delivery driver, you'll make reliable money—working anytime,
+            As a delivery driver, youll make reliable money—working anytime,
             anywhere.
           </p>
           <button className="button-fiture">
             Start earning
-            <img src="/right-arrow1.png" alt="background" />
+            <img src="/right-arrow1.png" />
           </button>
         </div>
         <div className="title-fiture">
-          <img src="/content2.svg" alt="background" />
+          <img src="/content2.svg" />
           <h1>Become a </h1>
           <h1>Partner</h1>
           <p style={{ width: "90%", margin: "20px auto" }}>
@@ -47,18 +47,18 @@ export default function Home() {
           </p>
           <button className="button-fiture">
             Sign up your store
-            <img src="/right-arrow1.png" alt="background" />
+            <img src="/right-arrow1.png" />
           </button>
         </div>
         <div className="title-fiture">
-          <img src="/content3.svg" alt="background" />
+          <img src="/content3.svg" />
           <h1>Try the App</h1>
           <p>
             Experience the best your neighborhood has to offer, all in one app.
           </p>
           <button className="button-fiture">
             Get the app
-            <img src="/right-arrow1.png" alt="background" />
+            <img src="/right-arrow1.png" />
           </button>
         </div>
       </div>
@@ -74,14 +74,14 @@ export default function Home() {
             <button>Get the app</button>
           </div>
           <div className="wrapper-img">
-            <img src="/img-content1.jpg" alt="background" />
+            <img src="/img-content1.jpg" />
           </div>
         </div>
       </div>
 
       <div className="resto">
         <div className="resto-img">
-          <img src="/img-content2.jpg" alt="background" />
+          <img src="/img-content2.jpg" />
         </div>
         <div className="tittle-resto">
           <h1>Every Flavor Welcome</h1>
@@ -331,14 +331,14 @@ export default function Home() {
 
           <div className="iklan">
             <div className="ios">
-              <img src="/cell-phone.png" alt="background" />
+              <img src="/cell-phone.png" />
               <div>
                 <p>Available on the</p>
                 <h4>App Store</h4>
               </div>
             </div>
             <div className="andro">
-              <img src="/google-play.png" alt="background" />
+              <img src="/google-play.png" />
               <div>
                 <h4>ANDROID APP STORE</h4>
                 <p>Google Play</p>
@@ -348,7 +348,7 @@ export default function Home() {
 
           <div>
             <div className="footer-bottom">
-              <img src="/logoD.png" alt="background" />
+              <img src="/logoD.png" />
               <ul>
                 <li>
                   <a href="">Terms of Sevice</a>
@@ -367,9 +367,9 @@ export default function Home() {
             </div>
           </div>
           <div className="media-footer">
-            <img src="/facebook.png" alt="background" />
-            <img src="/twitter.png" alt="background" />
-            <img src="/instagram.png" alt="background" />
+            <img src="/facebook.png" />
+            <img src="/twitter.png" />
+            <img src="/instagram.png" />
           </div>
         </div>
       </footer>
