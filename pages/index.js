@@ -75,7 +75,7 @@ export default function Home() {
                 <div className="desc-choice-fiture">
                   <h2>Become a Dasher</h2>
                   <h3>
-                    As a delivery driver, you'll make reliable money-working
+                    As a delivery driver, youll make reliable money-working
                     anytime, anywhere.
                   </h3>
                 </div>
