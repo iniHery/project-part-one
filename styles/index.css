@@ -767,7 +767,7 @@
   margin-left: 12px;
 }
 
-@media only screen and (min-width: 768px) {
+@media screen and (min-width: 992px) {
   .header {
     background-image: url("/bg.jpg");
     width: 100%;
@@ -780,7 +780,7 @@
   /* button sign dan signup */
 
   .wrapper-navbar {
-    position: absolute;
+    position: relative;
     left: 0;
     right: 0;
     top: 0;

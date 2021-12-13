@@ -14,9 +14,9 @@ export default function Home() {
         </div>
         <div className="container-header">
           <div className="brand-doordash">
-            <img src="logoD.png" width="auto" height="24" />
+            <img src="/logoD.png" width="auto" height="24" />
             <img
-              src="doordash.png"
+              src="/doordash.png"
               width="auto"
               height="24"
               style={{ marginLeft: 10 }}
@@ -30,14 +30,14 @@ export default function Home() {
               <div className="container-input">
                 <div className="display-input">
                   <div className="location-input">
-                    <img src="location.png" width="24px" height="24px" />
+                    <img src="/location.png" width="24px" height="24px" />
                   </div>
                   <div className="input">
                     <input placeholder="Enter delivery address" />
                   </div>
                   <div className="btn-arrow">
                     <button className="btn-enter">
-                      <img src="right-arrow.png" width="24" height="24" />
+                      <img src="/right-arrow.png" width="24" height="24" />
                     </button>
                   </div>
                 </div>
@@ -69,7 +69,7 @@ export default function Home() {
           <div className="content-fiture">
             <div className="choice-fiture">
               <div className="img-choice-fiture">
-                <img src="content1.svg" />
+                <img src="/content1.svg" />
               </div>
               <div className="desc-fiture">
                 <div className="desc-choice-fiture">
@@ -83,7 +83,7 @@ export default function Home() {
                   <span>Start earning</span>
                   <img
                     style={{ marginLeft: "4px" }}
-                    src="arrow.png"
+                    src="/arrow.png"
                     height="16"
                     width="16"
                   />
@@ -93,7 +93,7 @@ export default function Home() {
 
             <div className="choice-fiture">
               <div className="img-choice-fiture">
-                <img src="content2.svg" />
+                <img src="/content2.svg" />
               </div>
               <div className="desc-fiture">
                 <div className="desc-choice-fiture">
@@ -109,7 +109,7 @@ export default function Home() {
                     style={{
                       marginLeft: "4px",
                     }}
-                    src="arrow.png"
+                    src="/arrow.png"
                     height="16"
                     width="16"
                   />
@@ -119,7 +119,7 @@ export default function Home() {
 
             <div className="choice-fiture">
               <div className="img-choice-fiture">
-                <img src="content3.svg" />
+                <img src="/content3.svg" />
               </div>
               <div className="desc-fiture">
                 <div className="desc-choice-fiture">
@@ -133,7 +133,7 @@ export default function Home() {
                   <span>Get the app</span>
                   <img
                     style={{ marginLeft: "4px" }}
-                    src="arrow.png"
+                    src="/arrow.png"
                     height="16"
                     width="16"
                   />
@@ -163,14 +163,14 @@ export default function Home() {
             </div>
           </div>
           <div className="img-menu">
-            <img src="img-content1.jpg" width="100%" height="100%" />
+            <img src="/img-content1.jpg" width="100%" height="100%" />
           </div>
         </div>
       </div>
       <div className="resto">
         <div className="wrapper-resto">
           <div className="img-resto">
-            <img src="img-content1.jpg" width="100%" height="100%" />
+            <img src="/img-content2.jpg" width="100%" height="100%" />
           </div>
           <div className="wrapper-desc-resto">
             <div className="heading-resto">
@@ -408,15 +408,15 @@ export default function Home() {
               </div>
               <div className="app-mobile">
                 <div className="display-available-on-the">
-                  <img src="1.png" width="160" height="52" />
-                  <img src="googleplay.png" width="160" height="52" />
+                  <img src="/1.png" width="160" height="52" />
+                  <img src="/googleplay.png" width="160" height="52" />
                 </div>
               </div>
             </div>
             <div className="footer-bottom">
               <div className="desc-footer-bottom">
                 <div className="img-footer-bottom">
-                  <img src="logoD.png" width="32" height="18" />
+                  <img src="/logoD.png" width="32" height="18" />
                 </div>
                 <a href="">
                   <span>Terms of Service</span>
@@ -435,9 +435,9 @@ export default function Home() {
                 </a>
               </div>
               <div className="social-media">
-                <img src="facebook.png" width="24" height="24" />
-                <img src="twitter.png" width="24" height="24" />
-                <img src="instagram.png" width="24" height="24" />
+                <img src="/facebook.png" width="24" height="24" />
+                <img src="/twitter.png" width="24" height="24" />
+                <img src="/instagram.png" width="24" height="24" />
               </div>
             </div>
           </footer>
